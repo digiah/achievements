@@ -1,0 +1,21 @@
+# Achievement Data Structure
+
+<achievement>
+<id /> # integer - primary key
+<incept /> # datetime - date of achievement's definition
+<name /> # tinytext - name of achievement
+<categories /> # tinytext - tags: Mapping, Software, Collaboration, etc.
+<description /> # text - describe the achievmement
+<value /> # integer - point value for completion (pending)
+<graphic /> # text - URL for badge graphic
+</achievement>
+
+<submitted_achievement>
+<id /> # integer - primary key
+<achievement_id /> # integer - refers to achievement.id
+<incept /> # datetime - date of creation
+<owner /> # text - I/O user ID
+<description /> # user description of achievement
+<link /> # text - URL to achievement, where appropriate
+</submitted_achievement>
+
