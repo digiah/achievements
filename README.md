@@ -10,6 +10,56 @@ The goal is to find the means to make behavioral adjustments to the community th
 
 Some possibilities:
 
-* Turn a spreadsheet into a Google database
-* Turn a spreadsheet into CSV and import into (forthcoming) DAHI I/O module
-* Create a TiddlyWiki that reflects a facet of research
+### software
+* TiddlyWIki
+* Zotero
+* Vue
+* Audacity (see AV)
+
+#### Geomapping 
+* Create a polygon and make a map (using ???)
+
+### Chrome
+* icons for achievments
+
+### Collaboration
+* github
+   * respond to a github issue
+   * create a github issue
+   * solve (close) a github issue
+   * reach a milestone
+   * create a github Repo
+   * Edit Github Wiki page
+   * create github wiki page and link to it from another page
+   * create a gist
+* collaborate on a google drive or doc
+* collaborative MJuke performance
+* Write a DAHI Blog Entry
+
+### Visualization
+* create a timeline
+* Create a hyperbolic tree
+* Graph your facebook
+
+### Design
+* collage
+
+### A/V
+* [Mozilla Popcorn Maker](https://popcorn.webmaker.org/)
+* collaborative MJuke performance
+* Convolute something
+* audacity (podcast)
+   * edit a single sound file into a short presentation
+   * combine multiple sound files into a mixed file
+   * perform noise reduction on a sound file
+
+### coding
+* twine
+* markdown
+* Code Academy
+
+### Research
+* Create a github Repo (also see collab)
+* apply and win a do/dream award
+* review a resource and add it to the resource page 
+
