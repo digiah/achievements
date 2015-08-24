@@ -8,7 +8,7 @@
 <description /> # text - describe the achievmement
 <value /> # integer - point value for completion (pending)
 <graphic /> # text - URL for badge graphic
-</ach_achievement>
+</achievement>
 
 <achievement_submitted>
 <id /> # integer - primary key
@@ -17,5 +17,5 @@
 <owner /> # text - I/O user ID
 <description /> # user description of achievement
 <link /> # text - URL to achievement, where appropriate
-</ach_submitted>
+</achievement_submitted>
 
