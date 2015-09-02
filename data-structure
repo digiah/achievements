@@ -2,12 +2,15 @@
 
 <achievement>
 <id /> # integer - primary key
-<incept /> # datetime - date of achievement's definition
+<incept /> # date - date of achievement's definition
+<expiration /> # date - date of achievement's expiration
 <name /> # tinytext - name of achievement
 <categories /> # tinytext - tags: Mapping, Software, Collaboration, etc.
 <description /> # text - describe the achievmement
 <value /> # integer - point value for completion (pending)
+<inventory /> # integer - the number of achievements available
 <graphic /> # text - URL for badge graphic
+<sponsor /> # text - entity that "owns" the achievement
 </achievement>
 
 <achievement_submitted>
